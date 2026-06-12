@@ -43,18 +43,8 @@
 	"timeZone": "Europe/Paris",
 	"credentials": {
 		"gmailAccount": {
-			"email": "sahulrimin@gmail.com",
-			"clientId": "24605262819-7no89dr93lchm0nsnffte6k1girvf254.apps.googleusercontent.com",
-			"clientSecret": "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",
-			"refreshToken": "1//04jo0gL7IHPjJCgYIARAAGAQSNwF-L9IrkbtrhwYvh7OIPCnnbjaX0MGtDJre7DP8-A35eNn1LthF4-VEVT47RPXY9llD0GpQpvU",
-			"apiKey": ""
-		},
-		"gRecaptcha": {
-			"siteKey": "6LflC2IpAAAAAH0OS-zr79ovyoV3VQPDhwKbrN3H",
-			"secretKey": "6LflC2IpAAAAAM4JOsRl4ZdKZ0ihowTLDfvBe_W4"
-		}
-	},
-	"dashBoard": {
+			"email":"ey"
+		},{
 		"enable": true,
 		"expireVerifyCode": 300000,
 		"port": 3001
